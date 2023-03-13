@@ -1,4 +1,4 @@
-Hi there, I am johan <br>
+Hi there, I am johan
 ✍️ I am currently learning react 
 🔥 How to contact me : johannaizu2003@gmail.com
 
