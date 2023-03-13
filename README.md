@@ -1,7 +1,6 @@
 Hi there, I am johan
-###:writing_hand:I am currently learning react
-
-###:fire: How to contact me : johannaizu2003@gmail.com
+✍️ I am currently learning react 
+🔥 How to contact me : johannaizu2003@gmail.com
 
 
 
