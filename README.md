@@ -1,4 +1,4 @@
-### Hi there 👋
+<div id="header" align="center">
+  <img src="https://cdn.jonaz.tech/code.gif" width="100"/>
 
-- 🔭 I’m currently working on a start up
-- 🌱 I’m currently learning engineering
+</div>
