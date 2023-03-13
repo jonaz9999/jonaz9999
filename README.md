@@ -1,8 +1,8 @@
-Hi there, I am johan
-✍️ I am currently learning react 
-🔥 How to contact me : johannaizu2003@gmail.com
+Hi there, I am johan <br>
+✍️ I am currently learning react <br>
+🔥 How to contact me : johannaizu2003@gmail.com <br>
 
-
+<hr>
 
 </div>
 <div id="badges">
@@ -17,6 +17,8 @@ Hi there, I am johan
   </a>
 
   <div>
+    <br><hr>
+    
     Languages and Tools:
     <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
