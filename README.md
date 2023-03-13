@@ -1,5 +1,9 @@
-<div id="header" align="center">
-  <img src="https://cdn.jonaz.tech/code.gif" width="100"/>
+Hi there, I am johan
+###:writing_hand:I am currently learning react
+
+###:fire: How to contact me : johannaizu2003@gmail.com
+
+
 
 </div>
 <div id="badges">
